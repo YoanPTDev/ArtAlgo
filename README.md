@@ -12,10 +12,6 @@ P5.js is a JavaScript library inspired by Processing. It is web-based and allows
 
 openFrameworks is a creative coding toolkit written in C++. While it may be slightly more advanced than Processing and P5.js, it offers powerful features for generative art projects and real-time interactions.
 
-## Tilt Brush
-
-If you're interested in creating generative art in virtual reality, Tilt Brush is an excellent choice. It enables artists to paint and sculpt in 3D space, making it a unique and immersive experience for creating generative VR art.
-
 ## Artbreeder
 
 Artbreeder is an online platform that uses the power of AI to blend and morph images together, allowing users to create stunning generative art. It's accessible to both artists and non-artists, making it an excellent tool for creative experimentation.
