@@ -30,8 +30,8 @@ document.addEventListener("DOMContentLoaded", function () {
 }
 
 function draw_rain(x, y, width, height, p) {
-  var left = Math.random() <= 0.1;
-  var right = Math.random() >= 0.98;
+  var left = Math.random() <= 0.3;
+  var right = Math.random() >= 0.58;
 
   var rand = Math.random();
   var percent = rand <= p / 9300;
